@@ -1,5 +1,5 @@
-## Read through the document carefully (30 mins)
-## Thought how to configure a project structure (30 mins)
+### Read through the document carefully (30 mins)
+### Thought how to configure a project structure (30 mins)
 ## Create common components like Button, Heading, Input, ... using styled-components (1 hour)
 ## Create hooks which manage storage data and manage application state using Context (30 mins)
 ## Design login page, validate user input and form submission (1 hour)
